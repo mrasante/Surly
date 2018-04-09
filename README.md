@@ -21,6 +21,7 @@ This basically completes the installation of this version of Surly.
  
 
 ***************** COMMANDS AND COMMAND STRUCTURE ****************
+
 Once lunched the program goes to read the contents of xanadu.txt and populates the Database with it.
 It initially builds the relations and the attributes list and lets you know the status of the database by 
 printing a message to the screen to inform the user of the state of the database. 
