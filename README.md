@@ -9,7 +9,7 @@ These files are as listed below:
 - insert.txt (contains insert command and values to be inserted.)
 
 
-******************INSTALLING SURLY**********************
+****************** INSTALLING SURLY **********************
 
 1. Simply unzip the zip file Surly.zip and its contents to the classpath location on your machine. 
 
@@ -20,7 +20,7 @@ These files are as listed below:
 This basically completes the installation of this version of Surly. 
  
 
-*****************COMMANDS AND COMMAND STRUCTURE****************
+***************** COMMANDS AND COMMAND STRUCTURE ****************
 Once lunched the program goes to read the contents of xanadu.txt and populates the Database with it.
 It initially builds the relations and the attributes list and lets you know the status of the database by 
 printing a message to the screen to inform the user of the state of the database. 
@@ -30,13 +30,13 @@ relations well represented.
 To get this the user will have to initiate the print command to build the right structure of the columns in the database.
 Due to its static nature the command in surly will have to be entered in the following manner to avoid the generation of error messages.
 
-<<<<<<<<<<IMPORTANT>>>>>>>>>>>>>
+<<<<<<<<<< IMPORTANT >>>>>>>>>>>>>
 
 	ALL COMMANDS CAN START WITH EITHER UPPER OR LOWER CASE LETTERS. 
 	ALL RELATION NAMES ARE CASE SENSITIVE AND SO MUST BE ENTERED IN UPPER CASE FORMATS.
 	FAILURE TO COMPLY WITH THESE WILL RESULT IN THE GENERATION ERROR MESSAGES THAT ARE QUITE.
 
-**********COMMANDS******************
+********** COMMANDS ******************
 1. print (relation name) eg OFFERING 
 
 2. insert (relation name) eg OFFERING
