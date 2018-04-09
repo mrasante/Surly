@@ -1,0 +1,10 @@
+This are the help contents for the version of Surly ;
+This version is quite static in the sense that you will ;
+have to follow the instructions herein carefully to be all to use it well ;
+***** BACKGROUND INFORMATION *******
+You will need to follow the steps outlined here in order for Surly to function well. ;
+1. Print a relation of from the list ;
+eg print OFFERING ;
+2. Insert values into the relation ;
+eg insert OFFERING ;
+3. 
