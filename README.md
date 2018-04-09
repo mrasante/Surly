@@ -1,8 +1,7 @@
 # Surly
 A Java-based Single User Relational Database Management System for personal use and experimentation
 
-
-This is the readme file for my version of Surly. The contents of this file are basically instructions on how to use this version of Suurly. 
+The following outlines the instructions on how to use this version of Surly. 
 Some sections of this release is static; meaning it does processing based on the structure of some important files in the package. 
 These files are as listed below:
 
